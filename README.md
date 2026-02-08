@@ -24,9 +24,9 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 ## Resume Builders
 
-**[HiringMessage](https://hiringmessage.com)** - This is what I use. It's LaTeX-based but you don't need to know LaTeX - just fill in your info and it generates a clean PDF. No buggy formatting, no fighting with margins. I built it after getting frustrated with every other resume builder, so it follows 100+ formatting rules I validated with hiring managers (they told me what actually gets resumes auto-rejected). Free forever.
+**[HiringMessage](https://hiringmessage.com)** - This is what I use. It's LaTeX-based but you don't need to know LaTeX - just fill in your info and it generates a clean PDF. No buggy formatting, no fighting with margins. Free.
 
-**[Reactive Resume](https://rxresu.me/)** - Open-source with real-time preview. I used this before building my own. It's solid if you want something quick and don't mind tweaking settings. Free and privacy-focused.
+**[Reactive Resume](https://rxresu.me/)** - Open-source with real-time preview. It's solid if you want something quick and don't mind tweaking settings. Free and privacy-focused.
 
 **[FlowCV](https://flowcv.com/)** - Has some nice templates. I tried this for non-engineering applications. The free tier is pretty limited but enough if you just need one resume fast.
 
@@ -38,9 +38,7 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 ## Cover Letter Tools
 
-**[HiringMessage](https://hiringmessage.com)** - The AI cover letter writer I built. I made this because every AI tool I tried sounded like ChatGPT - you could tell immediately. This one is humanized, so hiring managers can't spot it. Free for your first 2 cover letters. I use it to tailor letters without spending 30 minutes per application.
-
-**[Cover Letter Copilot](https://coverlettercopilot.ai/)** - Generates cover letters from your resume + job posting. It's paid but the output is pretty good. I tested this against mine and it's solid if you don't mind the subscription.
+**[Cover Letter Copilot](https://coverlettercopilot.ai/)** - Generates cover letters from your resume + job posting. It's paid but the output is pretty good.
 
 **[Rezi](https://www.rezi.ai/)** - Part of their whole suite. It matches keywords from job descriptions which is useful for getting past ATS systems. Freemium model.
 
@@ -50,9 +48,9 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 ## ATS Checkers
 
-**[HiringMessage](https://hiringmessage.com)** - The ATS checker I built. Scans against 100+ rules I personally validated with hiring managers from tech companies. I made this after my resume kept getting auto-rejected even though it looked fine. If it passes here, you won't get filtered out. Free.
-
 **[Jobscan](https://www.jobscan.co/)** - Compares your resume to specific job postings and gives a match score. Limited free scans but useful for optimizing per application.
+
+**[HiringMessage](https://hiringmessage.com)** - Scans against 100+ rules for best practice validated with hiring managers from tech companies. I would only advice for it if your in tech, otherwise, they're are better options.
 
 **[Resume Worded](https://resumeworded.com/)** - Gives instant feedback on content and formatting. Free tier is limited but good for quick checks before submitting.
 
@@ -62,7 +60,7 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 ## Job Boards
 
-**[LinkedIn](https://www.linkedin.com/jobs/)** - Still the best for corporate and tech roles. Use the "Easy Apply" filter but read the posting first - some companies use it to collect emails.
+**[LinkedIn](https://www.linkedin.com/jobs/)** - just don't use it
 
 **[Wellfound](https://wellfound.com/)** (formerly AngelList) - Startup job board where you can message founders directly. Way better for early-stage companies than LinkedIn. Free.
 
@@ -115,7 +113,9 @@ If you found a tool that actually helped during a job search, open a PR. Require
 - It's free or has a meaningful free tier
 - Include 1-2 sentences on why it's useful
 
-No crypto scams, no MLM recruiting platforms, no "career coaches" selling courses.
+No crypto scams, no MLM recruiting platforms, no "career coaches" selling courses, not even affiliate, the links are just raw links. 
+
+Good luck out there people!
 
 ---
 
